@@ -14,3 +14,4 @@ gem 'omniauth-steam', '~> 1.0.3'
 gem 'dotenv', '~> 0.11.1'
 
 
+gem 'figaro'
